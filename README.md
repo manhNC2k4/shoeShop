@@ -1,2 +1,3 @@
 # shoeShop
-project PRJ
+## shop name: MayJa
+Cửa hàng giày nam - nữ
